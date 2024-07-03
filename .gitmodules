@@ -11,3 +11,7 @@
 	path = VRRTest: A small utility I wrote to test variable refresh rate on Linux. Should work on all major OSes.
 	url = https://github.com/Nixola/VRRTest.git
 	ignore = dirty
+[submodule "Unofficial snap packaging for VRRTest"]
+	path = Unofficial snap packaging for VRRTest
+	url = https://gitlab.com/brlin/vrrtest-snap.git
+	ignore = dirty

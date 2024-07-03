@@ -11,6 +11,8 @@
 
 * [Nixola/VRRTest: A small utility I wrote to test variable refresh rate on Linux. Should work on all major OSes.](https://github.com/Nixola/VRRTest)  
   上游專案
+* （開發中）[Unofficial snap packaging for VRRTest](https://gitlab.com/brlin/vrrtest-snap)  
+  Provides easy access to the VRRTest application on snap-enabled OS distributions.
 
 <!--
 ## 基本概念
